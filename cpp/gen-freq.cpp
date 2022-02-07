@@ -20,6 +20,7 @@ void sine_wave(float duration, float frequency, float amplitude)
     }
 }
 
-int main() {
-    sine_wave(10.0, 443, 1.0);
+int main(int argc, char **argv)
+{
+    sine_wave(atof(argv[1]), atof(argv[2]), atof(argv[3]));
 }

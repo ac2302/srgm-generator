@@ -1,0 +1,18 @@
+nl=0.25 gl=0.02
+
+S'	-	S'	-	S'	-	S'	-	|	n	-	-	-	P	-	P	m	|	R	-	-	-	m	-	m	-	|	P	-	-	-	-	-	-	-		
+S'	-	S'	-	S'	-	S'	-	|	n	-	-	-	P	-	P	m	|	R	-	-	-	m	-	m	-	|	P	-	-	-	-	-	-	-		
+
+m	-	P	-	S'	R'	N	S'	|	n	-	n	-	P	-	m	-	|	R	-	m	-	n	-	P	m	|	R	-	-	-	S	-	-	-	
+m	-	P	-	S'	R'	N	S'	|	n	-	n	-	P	-	m	-	|	R	-	m	-	n	-	P	m	|	R	-	-	-	S	-	-	-	
+
+S'	-	S'	-	S'	-	S'	-	|	n	-	-	-	P	-	P	m	|	R	-	-	-	m	-	m	-	|	P	-	-	-	-	-	-	-		
+
+
+m	-	-	-	P	-	P	-	|	P	n	P	-	N	-	N	-	|	S'	-	-	-	S'	-	S'	-	|	N	-	S'	-	S'	-	-	-
+m	-	-	-	P	-	P	-	|	P	n	P	-	N	-	N	-	|	S'	-	-	-	S'	-	S'	-	|	N	-	S'	-	S'	-	-	-
+
+N	-	S'	-	R'	-	-	-	|	m'	-	m'	-	R'	-	S'	-	|	N	-	S'	-	R'	-	S'	-	|	n	-	-	-	P	-	-	-
+N	-	S'	-	R'	-	-	-	|	m'	-	m'	-	R'	-	S'	-	|	N	-	S'	-	R'	-	S'	-	|	n	-	-	-	P	-	-	-
+
+S'	-	S'	-	S'	-	S'	-	|	n	-	-	-	P	-	P	m	|	R	-	-	-	m	-	m	-	|	P	-	-	-	-	-	-	-		

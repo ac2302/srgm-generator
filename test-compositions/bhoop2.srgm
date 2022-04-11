@@ -1,0 +1,30 @@
+gl=0.02
+
+nl=0.5
+                |                   |   S'  S'  D   P   |   G   R   S   S
+S   D.  S   R   |   G   R   G   -   |   S'  S'  D   P   |   G   R   S   S
+S   D.  S   R   |   G   R   G   -   |
+nl=0.25
+                                |                                   |   G   -   G   -   G   -   R   -   |   G   -   P   -   D   -   S'   -
+P   -   S'  D   S'  -   S'  -   |   S'  S'  D   P   G   R   S   -   |   G   -   G   -   G   -   R   -   |   G   -   P   -   D   -   S'   -
+P   -   S'  D   S'  -   S'  -   |   S'  S'  D   P   G   R   S   -   |  
+nl=0.5
+                |                   |   S'  S'  D   P   |   G   R   S   S
+S   D.  S   R   |   G   R   G   -   |   
+
+
+nl=0.5
+                |                   |   G   -   G   R   |   G   P   S'  D
+S'  S'  S'  -   |   S'  R'  S'  -   |   G   -   G   R   |   G   P   S'  D
+S'  S'  S'  -   |   S'  R'  S'  -   |
+                |                   |   D   -   D   -   |   S'  S'  R'  R'
+S'  R'  G'  R'  |   S'  S'  D   P   |   D   -   D   -   |   S'  S'  R'  R'
+S'  R'  G'  R'  |   S'  S'  D   P   |
+nl=0.25
+                                |                                   |   P   -   G   -   R   -   G   -   |   P   -   D   -   S'  -   S'   -
+P   -   S'  D   S'  -   S'  -   |   S'  S'  D   P   G   R   S   -   |   P   -   G   -   R   -   G   -   |   P   -   D   -   S'  -   S'   -
+P   -   S'  D   S'  -   S'  -   |   S'  S'  D   P   G   R   S   -   |
+
+nl=0.5
+                |                   |   S'  S'  D   P   |   G   R   S   S
+S   D.  S   R   |   G   R   G   -   |  
